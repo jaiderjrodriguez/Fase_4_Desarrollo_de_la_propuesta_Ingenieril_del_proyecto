@@ -1,4 +1,4 @@
-Plataforma Digital de Guía Turística y Mapa Interactivo para el Municipio de Berlín, Santander
+#Plataforma Digital de Guía Turística y Mapa Interactivo para el Municipio de Berlín, Santander
 
 Descripción General del Proyecto
 El acelerado avance de las Tecnologías de la Información y la Comunicación (TIC) ha transformado la manera en que las personas acceden, comparten y consumen información, generando nuevas oportunidades para sectores estratégicos como el turismo. En este contexto, el municipio de Berlín (Santander, Colombia) cuenta con un gran potencial turístico, cultural y productivo, pero presenta una limitada presencia digital que afecta la promoción de sus atractivos naturales, gastronómicos y socioculturales.
@@ -22,3 +22,10 @@ Pantalla inicial de *Berlín Tour*, donde el usuario elige su modo de ingreso. C
 - **Salir**, para cerrar la aplicación
 
 Pantalla 2 — Iniciar Sesión (Usuario General)
+<img width="323" height="672" alt="image" src="https://github.com/user-attachments/assets/5b1b1389-c132-4de0-85d0-2733e9a15d23" />
+Permite acceder a la plataforma mediante:
+- Correo electrónico  
+- Contraseña  
+- Botón **Continuar**  
+- Autenticación rápida **Continuar con Google**
+
