@@ -6,14 +6,14 @@ Este proyecto aplicado tiene como propósito **diseñar e implementar una plataf
 El prototipo fue desarrollado con enfoque en **UI/UX**, orientado a garantizar una experiencia atractiva, intuitiva y funcional para turistas, comerciantes y habitantes del municipio.
 ## 🔗 Enlace al Prototipo en Figma
 https://www.figma.com/proto/wYtH2KCMPvsSy634Mjvyt3/Berlin-Tour?node-id=107-1034&starting-point-node-id=107%3A1034
-
+---
 # 📱 Capturas y Descripción de Interfaces
 
 A continuación, se presenta la documentación detallada de las pantallas del prototipo desarrollado en Figma.
 
 ## 🟦 **Pantalla 1 — Pantalla Principal**
 <img width="322" height="668" alt="image" src="https://github.com/user-attachments/assets/e5adb7b7-b848-449a-a201-be2ddc04a4ba" />
-
+--
 Pantalla inicial de *Berlín Tour*, donde el usuario elige su modo de ingreso. Contiene los siguientes botones:
 - **Iniciar sesión**
 - **Iniciar sesión como administrador**
@@ -21,7 +21,7 @@ Pantalla inicial de *Berlín Tour*, donde el usuario elige su modo de ingreso. C
 - **Crear cuenta como administrador**
 - **Necesitas ayuda**
 - **Salir**, para cerrar la aplicación
-
+---
 ## 🟦 **Pantalla 2 — Iniciar Sesión (Usuario General)**
 <img width="323" height="672" alt="image" src="https://github.com/user-attachments/assets/5b1b1389-c132-4de0-85d0-2733e9a15d23" />
 Permite acceder a la plataforma mediante:
@@ -29,7 +29,7 @@ Permite acceder a la plataforma mediante:
 - Contraseña  
 - Botón **Continuar**  
 - Autenticación rápida **Continuar con Google**
-
+---
 ## 🟦 **Pantalla 3 — Iniciar Sesión como Administrador**
 <img width="323" height="674" alt="image" src="https://github.com/user-attachments/assets/6fbbe0c9-00c4-4de3-89c2-3675a575a007" />
 
