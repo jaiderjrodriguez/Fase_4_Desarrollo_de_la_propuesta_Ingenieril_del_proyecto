@@ -1,4 +1,4 @@
-#Plataforma Digital de Guía Turística y Mapa Interactivo para el Municipio de Berlín, Santander
+# Plataforma Digital de Guía Turística y Mapa Interactivo para el Municipio de Berlín, Santander
 
 Descripción General del Proyecto
 El acelerado avance de las Tecnologías de la Información y la Comunicación (TIC) ha transformado la manera en que las personas acceden, comparten y consumen información, generando nuevas oportunidades para sectores estratégicos como el turismo. En este contexto, el municipio de Berlín (Santander, Colombia) cuenta con un gran potencial turístico, cultural y productivo, pero presenta una limitada presencia digital que afecta la promoción de sus atractivos naturales, gastronómicos y socioculturales.
