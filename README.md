@@ -11,4 +11,14 @@ Capturas y Descripción de Interfaces
 
 A continuación, se presenta la documentación detallada de las pantallas del prototipo desarrollado en Figma.
 Pantalla 1 — Pantalla Principal
+<img width="322" height="668" alt="image" src="https://github.com/user-attachments/assets/e5adb7b7-b848-449a-a201-be2ddc04a4ba" />
 
+Pantalla inicial de *Berlín Tour*, donde el usuario elige su modo de ingreso. Contiene los siguientes botones:
+- **Iniciar sesión**
+- **Iniciar sesión como administrador**
+- **Crear cuenta**
+- **Crear cuenta como administrador**
+- **Necesitas ayuda**
+- **Salir**, para cerrar la aplicación
+
+Pantalla 2 — Iniciar Sesión (Usuario General)
