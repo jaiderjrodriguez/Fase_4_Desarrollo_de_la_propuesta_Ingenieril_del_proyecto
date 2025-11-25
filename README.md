@@ -21,7 +21,9 @@ A continuación, se presenta la documentación detallada de las pantallas del pr
 
 ---
 ## 🟦 **Pantalla 1 — Pantalla Principal**
+
 <img width="322" height="668" alt="image" src="https://github.com/user-attachments/assets/e5adb7b7-b848-449a-a201-be2ddc04a4ba" />
+
 **Descripción:**  
 Pantalla inicial de *Berlín Tour*, donde el usuario elige su modo de ingreso. Contiene los siguientes botones:
 - **Iniciar sesión**
