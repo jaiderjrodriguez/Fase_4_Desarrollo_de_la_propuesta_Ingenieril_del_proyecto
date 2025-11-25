@@ -231,21 +231,12 @@ Al confirmar, la aplicación se cierra por completo y regresa al entorno del dis
 
 ---
 
-# 🗂️ Documentación Adicional
-
-📄 **Documento completo del proyecto (Word o PDF):**  
-[ENLACE_AL_DOCUMENTO_AQUÍ]
-
----
-
 # 🙌 Créditos
 **Desarrollado por:**  
 Edwen Polentino y Jaider Rogrigez  
 Proyecto académico — Ingeniería de Sistemas 
 Desarrollado con Figma y Jira, 
 
----
-# 🚀 Licencia
-Este proyecto se distribuye bajo la licencia que tu prefieras MIT.  
+
 
 
